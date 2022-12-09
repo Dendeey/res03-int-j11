@@ -34,7 +34,7 @@
     }
 }
 
-.green{
+.green{    
     animation-delay:1s;
     animation-duration:5s;
     animation-name: green;
@@ -51,3 +51,5 @@
         fill: green;
     }
 }
+
+
