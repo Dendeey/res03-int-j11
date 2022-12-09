@@ -36,21 +36,83 @@ figure {
 
 
 /* EXERCICE 1 */
-#ex1{
+#glass-body{
     animation-delay: 1s;
     animation-duration: 2s;
+    animation-name: glass;
+    animation-fill-mode: forwards;
 }
 
-@keyframes background{
+@keyframes glass{
     from{
-        background-color: rgba(255, 0, 0, 0);
+        fill: rgba(255, 0, 0, 0);
     }
     to{
-        background-color: rgba(157, 17, 17, 1);
+        fill: rgba(157, 17, 17, 1);
     }
 }
 
 /* EXERCICE 2 */
+.tiny-bubble{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: tiny;
+    animation-fill-mode: forwards;
+}
+.small-bubble{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: small;
+    animation-fill-mode: forwards;
+}
+.middle-bubble{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: middle;
+    animation-fill-mode: forwards;
+}
+.big-bubble{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: big;
+    animation-fill-mode: forwards;
+}
+
+@keyframes tiny{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-50vh);
+    }
+}
+
+@keyframes small{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-40vh);
+    }
+}
+
+@keyframes middle{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-30vh);
+    }
+}
+
+@keyframes big{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-20vh);
+    }
+}
 
 
 /* EXERCICE 3 */
@@ -69,4 +131,70 @@ figure {
     max-height:40%;
 }
 
+@keyframes col1{
+    0%{
+        fill: #7400b8;
+    }
+    25%{
+        fill: #5e60ce;
+    }
+    50%{
+        fill: #4ea8de;
+    }
+    75%{
+        fill: #56cfe1;
+    }
+    100%{
+        fill: #72efdd;
+    }
+}
+
+#eq1-1, #eq2-1, #eq3-1, #eq4-1{
+    animation-delay: 0.25s;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-name: col1;
+}
+
+#eq1-2, #eq2-2, #eq3-2, #eq4-2{
+    animation-delay: 0.50s;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-name: col1;
+}
+
+#eq1-3, #eq2-3, #eq3-3{
+    animation-delay: 0.75s;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-name: col1;
+}
+
+#eq2-4, #eq3-4{
+    animation-delay: 1s;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-name: col1;
+}
+
+#eq2-5{
+    animation-delay: 1.25s;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-name: col1;
+}
+
 /* EXERCICE 4 */
+.st23{
+    animation-delay: 2s;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: dash 5s linear forwards;
+    animation-name: armor;
+}
+
+@keyframes armor{
+    to{
+        stroke-dashoffset: 0;
+    }
+}

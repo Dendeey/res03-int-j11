@@ -1,0 +1,340 @@
+
+.st2{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st2;
+    animation-iteration-count: infinite;
+}
+.st3{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st3;
+    animation-iteration-count: infinite;
+}
+.st4{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st4;
+    animation-iteration-count: infinite;
+}
+
+.st5{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st5;
+    animation-iteration-count: infinite;
+}
+
+.st6{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st6;
+    animation-iteration-count: infinite;
+}
+.st7{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st7;
+    animation-iteration-count: infinite;
+}
+.st8{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st8;
+    animation-iteration-count: infinite;
+}
+
+.st9{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st9;
+    animation-iteration-count: infinite;
+}
+.st10{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st10;
+    animation-iteration-count: infinite;
+}
+.st11{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st11;
+    animation-iteration-count: infinite;
+}
+.st12{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st12;
+    animation-iteration-count: infinite;
+}
+
+.st13{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st13;
+    animation-iteration-count: infinite;
+}
+.st14{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st14;
+    animation-iteration-count: infinite;
+}
+.st15{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st15;
+    animation-iteration-count: infinite;
+}
+.st16{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st16;
+    animation-iteration-count: infinite;
+}
+
+.st17{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st17;
+    animation-iteration-count: infinite;
+}
+
+.st18{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st18;
+    animation-iteration-count: infinite;
+}
+.st19{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st19;
+    animation-iteration-count: infinite;
+}
+
+.st20{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st20;
+    animation-iteration-count: infinite;
+}
+.st21{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st21;
+    animation-iteration-count: infinite;
+}
+.st22{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st22;
+    animation-iteration-count: infinite;
+}
+
+.st23{
+    animation-delay: 1s;
+    animation-duration: 4s;
+    animation-name: st23;
+    animation-iteration-count: infinite;
+}
+
+@keyframes st2{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-70vh);
+    }
+}
+
+@keyframes st3{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-60vh);
+    }
+}
+
+@keyframes st4{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-40vh);
+    }
+}
+
+@keyframes st5{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-100vh);
+    }
+}
+
+@keyframes st6{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-70vh);
+    }
+}
+
+@keyframes st7{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-60vh);
+    }
+}
+
+@keyframes st8{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-40vh);
+    }
+}
+
+@keyframes st9{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-100vh);
+    }
+}
+
+@keyframes st10{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-70vh);
+    }
+}
+
+@keyframes st11{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-60vh);
+    }
+}
+
+@keyframes st12{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-40vh);
+    }
+}
+
+@keyframes st13{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-100vh);
+    }
+}
+
+@keyframes st14{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-70vh);
+    }
+}
+
+@keyframes st15{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-60vh);
+    }
+}
+
+@keyframes st16{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-40vh);
+    }
+}
+
+@keyframes st17{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-100vh);
+    }
+}
+
+@keyframes st18{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-70vh);
+    }
+}
+
+@keyframes st19{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-60vh);
+    }
+}
+
+@keyframes st20{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-40vh);
+    }
+}
+
+@keyframes st21{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-100vh);
+    }
+}
+
+@keyframes st22{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-70vh);
+    }
+}
+
+@keyframes st23{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-60vh);
+    }
+}
+
