@@ -1,0 +1,53 @@
+.red{
+    animation-delay: 8s;
+    animation-duration: 8s;
+    animation-name: red;
+}
+
+@keyframes red{
+    0%{
+    
+    }
+    1%{
+        fill: red;
+    }
+    100%{
+        fill: red;
+    }
+}
+
+.orange{
+    animation-delay: 6s;
+    animation-duration: 2s;
+    animation-name: orange;
+}
+
+@keyframes orange{
+    0%{
+    
+    }
+    1%{
+        fill: orange;
+    }
+    100%{
+        fill: orange;
+    }
+}
+
+.green{
+    animation-delay:1s;
+    animation-duration:5s;
+    animation-name: green;
+}
+
+@keyframes green{
+    0%{
+    
+    }
+    1%{
+        fill: green;
+    }
+    100%{
+        fill: green;
+    }
+}
